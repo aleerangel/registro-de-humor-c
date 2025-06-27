@@ -53,4 +53,3 @@ make clean
 | [<img src="https://avatars.githubusercontent.com/u/161789533?v=4" width=115><br><sub>Alexandre Rangel</sub>](https://github.com/aleerangel) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------: |
 
-```
